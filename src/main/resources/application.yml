@@ -1,0 +1,26 @@
+spring:
+  quartz:
+    jdbc:
+      # 是否初始化Quartz表
+      initialize-schema: always
+    # job存储方式 jdbc memory
+    job-store-type: jdbc
+    # 调度名称
+    scheduler-name: shizc-scheduler
+  #数据库连接
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/myjob?serverTimezone=Hongkong&useUnicode=true&characterEncoding=UTF-8&useSSL=false
+    password: 123456
+    username: root
+    name: myjob
+  application:
+    name: job
+  profiles:
+    active: dev
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+server:
+  port: 8080
