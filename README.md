@@ -2,4 +2,4 @@
 Spring boot Quartz学习
 项目简单介绍
 
-https://mp.weixin.qq.com/s/rLKT5M2O-D6I-whIS_F0Jw
+https://mp.weixin.qq.com/s?__biz=MzI0ODAyMDk5Ng==&mid=2247483898&idx=1&sn=92e124387808ce892b93764dbfc2b10f&chksm=e9a66891ded1e18755b29fade29af74a7155ba9e2193e687da5e6d0000bc5b0b07232892b27e&mpshare=1&scene=1&srcid=0827e58il582Z9oW1Q3z2Iux&sharer_sharetime=1598495469101&sharer_shareid=3ad0c7845789f53e0187c60bfa937a76&key=41be2f82f1089626b9d8cff06307b4e12d62fc51153e45e9a527c530f99a9c6072fb9cfcd8d503ac5fee5d652e5f096a75a70b5ce152ed9ed52d364e10aa087a2af0e1496a1094caa2e7ca8ae4466cf124c0f9ebc4dd0f6d2224c71aabd4c5828f32a3c8f8c5bf56af640070b655c9b753f9dbfdaeba9652c3c623877e89ee4a&ascene=1&uin=MjU3MDYwNjg2Mw%3D%3D&devicetype=Windows+10+x64&version=62090529&lang=zh_CN&exportkey=AVCgLxBNJNfAoaZ7R8M%2BNDI%3D&pass_ticket=9LxJITzZC19HK2kY6ghokPXadDGV1A69Fn%2FkL5L%2Fl%2B3acXAk7pL%2B1r%2F4Am2vlrLY
